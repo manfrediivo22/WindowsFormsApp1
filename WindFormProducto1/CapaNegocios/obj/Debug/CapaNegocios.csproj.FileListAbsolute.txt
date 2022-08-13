@@ -1,0 +1,11 @@
+C:\Users\USUARIO\source\repos\WindFormProducto1\WindowsFormsApp1\CapaNegocios\bin\Debug\CapaNegocios.dll
+C:\Users\USUARIO\source\repos\WindFormProducto1\WindowsFormsApp1\CapaNegocios\bin\Debug\CapaNegocios.pdb
+C:\Users\USUARIO\source\repos\WindFormProducto1\WindowsFormsApp1\CapaNegocios\bin\Debug\CapaDatos.dll
+C:\Users\USUARIO\source\repos\WindFormProducto1\WindowsFormsApp1\CapaNegocios\bin\Debug\Entidades.dll
+C:\Users\USUARIO\source\repos\WindFormProducto1\WindowsFormsApp1\CapaNegocios\bin\Debug\CapaDatos.pdb
+C:\Users\USUARIO\source\repos\WindFormProducto1\WindowsFormsApp1\CapaNegocios\bin\Debug\Entidades.pdb
+C:\Users\USUARIO\source\repos\WindFormProducto1\WindowsFormsApp1\CapaNegocios\obj\Debug\CapaNegocios.csproj.AssemblyReference.cache
+C:\Users\USUARIO\source\repos\WindFormProducto1\WindowsFormsApp1\CapaNegocios\obj\Debug\CapaNegocios.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\source\repos\WindFormProducto1\WindowsFormsApp1\CapaNegocios\obj\Debug\CapaNegocios.csproj.CopyComplete
+C:\Users\USUARIO\source\repos\WindFormProducto1\WindowsFormsApp1\CapaNegocios\obj\Debug\CapaNegocios.dll
+C:\Users\USUARIO\source\repos\WindFormProducto1\WindowsFormsApp1\CapaNegocios\obj\Debug\CapaNegocios.pdb
